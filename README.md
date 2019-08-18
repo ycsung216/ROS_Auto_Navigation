@@ -1,6 +1,6 @@
 # ROS_Auto_Navigation
 An ROS/Gazebo autonomous robot navigation simulation demo with move_base and amcl packages. 
-The robot is described with my customized xacro description.
+The robot is described using a xacro description customized by me.
 
 To run the demo, please
 1. Have the following ROS package installed: amcl and move_base.
